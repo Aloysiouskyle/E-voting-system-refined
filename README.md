@@ -11,7 +11,6 @@ for candidates to be added and checked for eligibility, vote casting with
 duplicate‑vote protection, and saving everything to disk. The app does all of
 that and it's still easy to run or extend.
 
----
 
 ## Who Did What
 
