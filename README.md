@@ -16,7 +16,7 @@ that and it's still easy to run or extend.
 
 * **Lomoro Paul** – built out the core election rules in
   `businesslogic.py` (the `ElectionEngine`).
-* **Bukenya Jawadhu** – wrote the main application loop and menus in `main.py`.
+* **Bukenya Jawadhu** – wrote the main application loop **Aijuka Jonah** wrote menus in `main.py`.
  **Kakaire Shawn ** – added the display helpers and small niceties in `utils.py`.
 * **Kayongo Aloysious** – defined all the data models and the JSON persistence layer in
   `models.py`.
